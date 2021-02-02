@@ -5,7 +5,7 @@ const Constraint = Matter.Constraint
 
 function preload(){
 
-StrikerImage=loadImage("polygon.png")
+StrikerImage=loadImage("polygon.png")  // the image of the striker isnt getting displayed
 }
 
 function setup() {
